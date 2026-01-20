@@ -1,5 +1,5 @@
 {
-  description = "Common template";
+  description = "Java template";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
